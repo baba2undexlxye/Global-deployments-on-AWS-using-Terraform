@@ -1,1 +1,1 @@
-# Global-deployments-on-AWS-using-Terraform
+# Global-deployment-using-Terraform-in-AWS
